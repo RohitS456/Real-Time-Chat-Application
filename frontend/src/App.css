@@ -1,0 +1,7 @@
+.app-container {
+  padding: 1rem; /* Equivalent to 'p-4' */
+  height: 100vh; /* Equivalent to 'h-screen' */
+  display: flex; /* Equivalent to 'flex' */
+  align-items: center; /* Equivalent to 'items-center' */
+  justify-content: center; /* Equivalent to 'justify-center' */
+}
